@@ -1,0 +1,6 @@
+C:\Projetos\palindromic-numbers\Palindromic-numbers\bin\Debug\Palindromic-numbers.exe.config
+C:\Projetos\palindromic-numbers\Palindromic-numbers\bin\Debug\Palindromic-numbers.exe
+C:\Projetos\palindromic-numbers\Palindromic-numbers\bin\Debug\Palindromic-numbers.pdb
+C:\Projetos\palindromic-numbers\Palindromic-numbers\obj\Debug\Palindromic-numbers.csproj.CoreCompileInputs.cache
+C:\Projetos\palindromic-numbers\Palindromic-numbers\obj\Debug\Palindromic-numbers.exe
+C:\Projetos\palindromic-numbers\Palindromic-numbers\obj\Debug\Palindromic-numbers.pdb
